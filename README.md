@@ -8,9 +8,9 @@ A one-page Power BI dashboard built on 125 months of official NPCI UPI statistic
 A PDF export is in `UPI_Dashboard.pdf`. The Power BI file is `upi_dashboard.pbix` (open it with the free Power BI Desktop).
 
 ## Data
-Source: NPCI UPI Product Statistics, downloaded from the India Data Portal (monthly; number of banks live, volume in millions, value in crore rupees).
-The portal lists the dataset with no licence. The raw CSV is not included as a separate file, but the .pbix contains an imported copy of the 125 monthly rows (public NPCI statistics). To refresh, download the CSV from the portal and point the query at it.
-125 monthly rows, no missing values.
+- Source: NPCI UPI Product Statistics, downloaded from the India Data Portal (monthly; number of banks live, volume in millions, value in crore rupees).
+- The portal lists the dataset with no licence. The raw CSV is not included as a separate file, but the .pbix contains an imported copy of the 125 monthly rows (public NPCI statistics). To refresh, download the CSV from the portal and point the query at it.
+- 125 monthly rows, no missing values.
 
 ## Questions answered
 1. How fast has UPI grown since launch, and is growth slowing?
